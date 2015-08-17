@@ -9,7 +9,7 @@ Even if this works fine with API.13 or less, we support only for API.14 or more.
 
 
 ## Screenshots
-*Watch YouTube video [here](https://www.youtube.com/watch?v=ZIBP56GboX0).*  
+*Watch YouTube video [here](https://www.youtube.com/watch?v=FE2xtGytyGs).*  
 ![](./sc/animation.gif)  
 
 | NINJA                               | BUTTERFLY                          | VIOLIN                              |
@@ -24,9 +24,9 @@ Even if this works fine with API.13 or less, we support only for API.14 or more.
 |:------------------------------------|:-----------------------------------|:-----------------------------------|
 | <img src="./sc/sc12.png" width="200">|<img src="./sc/sc8.png" width="200">|<img src="./sc/sc9.png" width="200">|
 
-| CAT                                 |                                     |                                     |
-|:------------------------------------|:------------------------------------|:------------------------------------|
-| <img src="./sc/sc10.png" width="200">|                                    |                                     |
+| CAT                                 |
+|:------------------------------------|
+| <img src="./sc/sc10.png" width="200">|
 
 
 ## Requirements
