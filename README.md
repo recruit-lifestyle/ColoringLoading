@@ -1,5 +1,5 @@
 # ColoringLoading
-
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-ColoringLoading-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/2352)
 [![Release](https://img.shields.io/github/release/recruit-lifestyle/ColoringLoading.svg?label=maven version)](https://github.com/recruit-lifestyle/ColoringLoading)
 [![License](https://img.shields.io/hexpm/l/plug.svg)]()  
 This project provide Coloring Loading View for Android.  
